@@ -1,3 +1,6 @@
+/*
+  #2: Fishy patrols the perimeter of their fishtank!
+*/
 
 #include <Adafruit_GFX.h>   // Core graphics library
 #include <RGBmatrixPanel.h> // Hardware-specific library
